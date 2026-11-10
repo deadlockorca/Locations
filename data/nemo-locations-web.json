@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "location_count": 47,
+  "location_count": 61,
   "locations": [
     {
       "code": "100063185",
@@ -424,6 +424,132 @@
       "long": "105.89709127731109",
       "source_codes": [
         "ACC3283"
+      ]
+    },
+    {
+      "code": "100049347",
+      "name": "CANTEEN BỆNH VIỆN ĐA KHOA TRUNG ƯƠNG THÁI NGUYÊN",
+      "lat": "21.589461",
+      "long": "105.830381",
+      "source_codes": [
+        "100049347"
+      ]
+    },
+    {
+      "code": "100053177",
+      "name": "Cong ty co phan Duoc pham Luu gia",
+      "lat": "21.015767812303366",
+      "long": "105.7946570914272",
+      "source_codes": [
+        "100053177"
+      ]
+    },
+    {
+      "code": "100076446",
+      "name": "KHOA DINH DUONG - BENH VIEN DA KHOA TRUNG UONG THAI NGUYEN",
+      "lat": "21.5878359",
+      "long": "105.8311476",
+      "source_codes": [
+        "100076446"
+      ]
+    },
+    {
+      "code": "100085570",
+      "name": "CONG TY TNHH THIET BI Y TE MEDIFA",
+      "lat": "21.062389904397758",
+      "long": "105.89915536245906",
+      "source_codes": [
+        "100085570"
+      ]
+    },
+    {
+      "code": "752004456",
+      "name": "SIEU THI 9 MART",
+      "lat": "21.024232495039705",
+      "long": "105.78852010222421",
+      "source_codes": [
+        "752004456"
+      ]
+    },
+    {
+      "code": "ACC0988",
+      "name": "Vien Huyet Hoc Truyen Mau Trung Uong",
+      "lat": "21.0248644",
+      "long": "105.7883263",
+      "source_codes": [
+        "ACC0988"
+      ]
+    },
+    {
+      "code": "ACC1088",
+      "name": "Benh Vien Da Khoa Duc Giang",
+      "lat": "21.0621941",
+      "long": "105.8976224",
+      "source_codes": [
+        "ACC1088"
+      ]
+    },
+    {
+      "code": "ACC1396",
+      "name": "Benh Vien A Thai Nguyen",
+      "lat": "21.571444",
+      "long": "105.811858",
+      "source_codes": [
+        "ACC1396"
+      ]
+    },
+    {
+      "code": "ACC1398",
+      "name": "Benh Vien Da Khoa Trung Uong Thai Nguyen",
+      "lat": "21.587301",
+      "long": "105.830455",
+      "source_codes": [
+        "ACC1398"
+      ]
+    },
+    {
+      "code": "ACC1399",
+      "name": "Benh Vien Gang Thep Thai Nguyen",
+      "lat": "21.536631",
+      "long": "105.877398",
+      "source_codes": [
+        "ACC1399"
+      ]
+    },
+    {
+      "code": "ACC1832",
+      "name": "Benh Vien C Thai Nguyen",
+      "lat": "21.446823",
+      "long": "105.8611703",
+      "source_codes": [
+        "ACC1832"
+      ]
+    },
+    {
+      "code": "ACC2933",
+      "name": "Trung Tam Y Te Thanh Pho Thai Nguyen",
+      "lat": "21.588573",
+      "long": "105.848595",
+      "source_codes": [
+        "ACC2933"
+      ]
+    },
+    {
+      "code": "ACC2946",
+      "name": "Bệnh viện Đa Khoa Tâm Anh Hà Nội",
+      "lat": "21.04127215803645",
+      "long": "105.87687500953857",
+      "source_codes": [
+        "ACC2946"
+      ]
+    },
+    {
+      "code": "D70070797",
+      "name": "DANG THI THANH BINH",
+      "lat": "21.5875032433587",
+      "long": "105.82993625828114",
+      "source_codes": [
+        "D70070797"
       ]
     }
   ]

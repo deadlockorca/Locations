@@ -1,6 +1,6 @@
 # Nemo Locations
 
-Công cụ vị trí độc lập với 47 địa điểm. Trang chủ `/` và đường dẫn `/locations/` cùng mở công cụ.
+Công cụ vị trí độc lập với 61 địa điểm. Trang chủ `/` và đường dẫn `/locations/` cùng mở công cụ.
 
 ## Chạy local
 

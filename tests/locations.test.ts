@@ -8,9 +8,9 @@ function seededRandom() {
   return () => { seed = (Math.imul(1664525, seed) + 1013904223) >>> 0; return seed / 2 ** 32; };
 }
 
-test("catalog retains 48 source codes across 47 display locations and the requested merge", () => {
-  assert.equal(locationOptions.length, 47);
-  assert.equal(new Set(locationOptions.flatMap(p => p.sourceCodes)).size, 48);
+test("catalog retains 62 source codes across 61 display locations and the requested merge", () => {
+  assert.equal(locationOptions.length, 61);
+  assert.equal(new Set(locationOptions.flatMap(p => p.sourceCodes)).size, 62);
   const merged = locationOptions.filter(p => p.sourceCodes.includes("752004472") || p.sourceCodes.includes("ACC1106"));
   assert.equal(merged.length, 1);
   assert.equal(merged[0].name, "Phòng khám Nhi khoa – BS Nguyễn Tiến Dũng");
