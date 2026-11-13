@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "location_count": 61,
+  "location_count": 85,
   "locations": [
     {
       "code": "100063185",
@@ -550,6 +550,222 @@
       "long": "105.82993625828114",
       "source_codes": [
         "D70070797"
+      ]
+    },
+    {
+      "code": "100044224",
+      "name": "PHÒNG KHÁM TRẦN TIẾN PHONG",
+      "lat": "21.167713749330787",
+      "long": "105.85845027124533",
+      "source_codes": [
+        "100044224"
+      ]
+    },
+    {
+      "code": "100052784",
+      "name": "PK chuyen khoa Nhi Hai Hong",
+      "lat": "21.067517487202505",
+      "long": "105.8027131069345",
+      "source_codes": [
+        "100052784"
+      ]
+    },
+    {
+      "code": "100061624",
+      "name": "Hộ Kinh Doanh PK Chuyên Khoa Nhi",
+      "lat": "21.169987",
+      "long": "105.841792",
+      "source_codes": [
+        "100061624"
+      ]
+    },
+    {
+      "code": "100061625",
+      "name": "Phòng Khám Nhi Khoa Phú Minh",
+      "lat": "21.19262199349101",
+      "long": "105.81818379504777",
+      "source_codes": [
+        "100061625"
+      ]
+    },
+    {
+      "code": "100061904",
+      "name": "HO KD NHA THUOC 94D TRAN HUNG DAO",
+      "lat": "21.023509",
+      "long": "105.843601",
+      "source_codes": [
+        "100061904"
+      ]
+    },
+    {
+      "code": "100065516",
+      "name": "CANG TIN BENH VIEN PHOI TRUNG UONG",
+      "lat": "21.04177064572217",
+      "long": "105.81351940063506",
+      "source_codes": [
+        "100065516"
+      ]
+    },
+    {
+      "code": "100067736",
+      "name": "PHONG KHAM HAI HA",
+      "lat": "21.031916",
+      "long": "105.760037",
+      "source_codes": [
+        "100067736"
+      ]
+    },
+    {
+      "code": "100071605",
+      "name": "HO KINH DOANH NHA THUOC VIET DUC 2",
+      "lat": "21.028178296066123",
+      "long": "105.84775817692994",
+      "source_codes": [
+        "100071605"
+      ]
+    },
+    {
+      "code": "100090922",
+      "name": "HO KINH DOANH LE THI LIEU 82",
+      "lat": "21.139270264646996",
+      "long": "105.8541174071551",
+      "source_codes": [
+        "100090922"
+      ]
+    },
+    {
+      "code": "752003264",
+      "name": "CONG TY TNHH NHA THUOC 24H.VN",
+      "lat": "21.0281654571927",
+      "long": "105.84777249081101",
+      "source_codes": [
+        "752003264"
+      ]
+    },
+    {
+      "code": "752004538",
+      "name": "HO KINH DOANH HOANG HANH",
+      "lat": "21.065359",
+      "long": "105.807717",
+      "source_codes": [
+        "752004538"
+      ]
+    },
+    {
+      "code": "ACC0885",
+      "name": "Benh Vien Da Khoa Dong Anh",
+      "lat": "21.139468",
+      "long": "105.853392",
+      "source_codes": [
+        "ACC0885"
+      ]
+    },
+    {
+      "code": "ACC0944",
+      "name": "Benh Vien K Co So Tan Trieu",
+      "lat": "20.9630082",
+      "long": "105.7996289",
+      "source_codes": [
+        "ACC0944"
+      ]
+    },
+    {
+      "code": "ACC0997",
+      "name": "Benh Vien Tai Mui Hong Trung Uong",
+      "lat": "20.9991766",
+      "long": "105.8410085",
+      "source_codes": [
+        "ACC0997"
+      ]
+    },
+    {
+      "code": "ACC1049",
+      "name": "Benh Vien Huu Nghi Viet Duc",
+      "lat": "21.028014",
+      "long": "105.847778",
+      "source_codes": [
+        "ACC1049"
+      ]
+    },
+    {
+      "code": "ACC1560",
+      "name": "Ho Kinh Doanh Hoang Hanh",
+      "lat": "21.063041",
+      "long": "105.80773",
+      "source_codes": [
+        "ACC1560"
+      ]
+    },
+    {
+      "code": "ACC2123",
+      "name": "Pk Bac Sy Tran Tien Phong",
+      "lat": "21.1675912",
+      "long": "105.8587097",
+      "source_codes": [
+        "ACC2123"
+      ]
+    },
+    {
+      "code": "ACC2238",
+      "name": "Ho Kinh Doanh Phong Kham Tai Mui Hong Hai Ha",
+      "lat": "21.031870943187826",
+      "long": "105.76008586828914",
+      "source_codes": [
+        "ACC2238"
+      ]
+    },
+    {
+      "code": "ACC2323",
+      "name": "Phong Kham Chuyen Khoa Hai Hong",
+      "lat": "21.067459",
+      "long": "105.802783",
+      "source_codes": [
+        "ACC2323"
+      ]
+    },
+    {
+      "code": "ACC2324",
+      "name": "Phong Kham Chuyen Khoa Nhi Khang Nhi",
+      "lat": "21.162467",
+      "long": "105.850482",
+      "source_codes": [
+        "ACC2324"
+      ]
+    },
+    {
+      "code": "ACC2569",
+      "name": "Benh Vien Tim Ha Noi Co So 2",
+      "lat": "21.06847887165372",
+      "long": "105.80796090134871",
+      "source_codes": [
+        "ACC2569"
+      ]
+    },
+    {
+      "code": "ACC2650",
+      "name": "Phong Kham Nhi Khoa Phu Minh - Phong Kham Nguyen Thi Dong",
+      "lat": "21.19254680565532",
+      "long": "105.81814768012032",
+      "source_codes": [
+        "ACC2650"
+      ]
+    },
+    {
+      "code": "ACC2651",
+      "name": "Ho Kinh Doanh Pk Ck Nhi Dao Thi Ninh",
+      "lat": "21.170002729651674",
+      "long": "105.84238414662502",
+      "source_codes": [
+        "ACC2651"
+      ]
+    },
+    {
+      "code": "D70290008",
+      "name": "TO DINH DUONG - BENH VIEN DA KHOA DONG ANH",
+      "lat": "21.13958892875748",
+      "long": "105.8529146119233",
+      "source_codes": [
+        "D70290008"
       ]
     }
   ]
